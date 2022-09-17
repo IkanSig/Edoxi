@@ -1,0 +1,6 @@
+a = 5
+b = 2
+c = a + b
+d = c + 2
+print (d)
+print ("Hello Python")
